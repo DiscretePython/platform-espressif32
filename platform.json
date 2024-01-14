@@ -85,7 +85,7 @@
       "type": "framework",
       "optional": true,
       "owner": "espressif",
-      "version": "https://github.com/espressif/esp32-arduino-libs/tree/idf-release/v5.1"
+      "version": "~5.1.0"
     },
     "framework-arduino-mbcwb": {
       "type": "framework",
