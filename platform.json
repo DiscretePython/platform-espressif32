@@ -81,6 +81,12 @@
       "owner": "platformio",
       "version": "~3.20014.0"
     },
+    "framework-arduinoespressif32-libs": {
+      "type": "framework",
+      "optional": true,
+      "owner": "espressif",
+      "version": "https://github.com/espressif/esp32-arduino-libs/tree/idf-release/v5.1"
+    },
     "framework-arduino-mbcwb": {
       "type": "framework",
       "optional": true,
