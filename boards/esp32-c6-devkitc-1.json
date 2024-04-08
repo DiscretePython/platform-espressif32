@@ -6,12 +6,8 @@
     "flash_mode": "qio",
     "mcu": "esp32c6"
   },
-  "connectivity": [
-    "wifi"
-  ],
-  "frameworks": [
-    "espidf"
-  ],
+  "connectivity": ["wifi"],
+  "frameworks": ["espidf", "arduino"],
   "name": "Espressif ESP32-C6-DevKitC-1",
   "upload": {
     "flash_size": "8MB",
